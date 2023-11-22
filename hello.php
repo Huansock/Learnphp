@@ -1,4 +1,4 @@
-<? php
+<?php
 if ($argc !== 2) {
   echo "Usage: php hello.php <name>." . PHP_EOL;
   exit(1);
