@@ -1,0 +1,19 @@
+{
+    "name": "schmatz/php",
+    "description": "this is my first composer Usage.",
+    "require": {
+        "twig/twig": "^3.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Schmatz\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "woo seok",
+            "email": "Huan.sock@gmail.com"
+        }
+    ]
+}
